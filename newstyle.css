@@ -1,0 +1,48 @@
+body{width: 100%;
+	background-color:darkgrey;
+}
+header,nav,aside,div{
+	color: black;
+	font-size: 15pt;
+}
+nav {
+    float: left;
+	height: 750px;
+	width: 25%;
+}
+aside {
+	float: right;
+	width: 25%;
+	height:750px;
+}
+div{
+	float: left;
+	width: 49%;
+	height: 500px;
+}
+header{
+    text-align: center;
+	height: 120px;
+	width: 30%;
+}
+
+footer{
+	clear: both;
+	height:35px;
+	width: 98%;
+}
+aside img{
+	width: 100px;
+	height: 100px;
+}
+nav img{
+	width: 100px;
+	height: 100px;
+}
+div img{
+	width: 150px;
+	height: 150px;
+}
+
+
+
